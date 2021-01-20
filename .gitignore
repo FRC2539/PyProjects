@@ -1,0 +1,19 @@
+# Optimized Code
+*.py[cod]
+__pycache__
+
+# KDevelop
+*.kdev4
+
+# RobotPy
+tests
+.deploy_cfg
+*_cache
+.installer_config
+networktables.ini
+
+# virtualenv
+.venv
+
+# Pip
+.pipup
