@@ -1,0 +1,22 @@
+Palindrome Detector:
+
+Your code should be able to identify palindromes. An example of a 
+palindrome would be "tacocat". "tacocat" is the same backwards as 
+it is forwards. 
+
+Inputs:
+ - A string to check. 
+
+Outputs:
+ - String stating whether the input is or is not a palindrome. 
+ 
+Data to check:
+"tacocat"
+"RAcECaR"
+"cow"
+"litliceecilit"
+
+View key.py for a solution! (It does not need to be as advanced as the key.py :) )
+
+Bonus: 
+ - <10 Lines!
