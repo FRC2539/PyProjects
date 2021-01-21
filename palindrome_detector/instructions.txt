@@ -1,3 +1,4 @@
+1/20/21
 Palindrome Detector:
 
 Your code should be able to identify palindromes. An example of a 
