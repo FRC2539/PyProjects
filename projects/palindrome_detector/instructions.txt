@@ -16,6 +16,7 @@ Data to check:
 "RAcECaR"
 "cow"
 "litliceecilit"
+"kayak"
 
 View key.py for a solution! (It does not need to be as advanced as the key.py :) )
 
