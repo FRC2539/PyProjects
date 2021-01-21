@@ -2,7 +2,7 @@
 Palindrome Detector:
 
 Your code should be able to identify palindromes. An example of a 
-palindrome would be "tacocat". "tacocat" is the same backwards as 
+palindrome would be "eye". "eye" is the same backwards as 
 it is forwards. 
 
 Inputs:
