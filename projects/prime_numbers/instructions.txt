@@ -1,0 +1,27 @@
+1/21/21
+Prime Number Detector:
+
+Your code should be able to identify prime numbers. An example of a 
+prime number would be 5. The number 5 has no factors other than 1 and 
+itself. Prime numbers must also be positive! Another example could 
+be 11, or 277.
+
+Inputs:
+ - A value to check. 
+
+Outputs:
+ - String stating whether the input is or is not prime. If the input is 
+ not valid, do nothing. 
+ 
+Data to check:
+4
+311
+564738
+-9
+12533
+
+View key.py for a solution! (It does not need to be as advanced as the key.py :) )
+
+Bonus: 
+ - <20 Lines!
+ - Can detect and return data that is not an integer type!
