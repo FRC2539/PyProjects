@@ -1,0 +1,31 @@
+1/27/21
+Rock, Paper, Scissor Game:
+
+Your code should take the input of a player and the random 
+input of a bot, and quickly return who won the match of rock,
+paper, scissors. Remember:
+- Rock beats scissors.
+- Scissors beat paper.
+- Paper beats rock.
+Once your code compares the player's input and the randomly 
+generated input, it should return the randomly generated input
+and the victor of the match! If the input is not one of the three
+options I have given, request a different input. 
+
+Inputs:
+ - The hand gesture you would like to call against the AI.
+
+Outputs:
+ - The hand gesture of the AI. 
+ - The victor of the match (player or the AI). 
+ 
+Data to check:
+Scissors
+Rock
+Paper
+Mhdsjfh
+
+View key.py for a solution! (It does not need to be as advanced as the key.py :) )
+
+Bonus: 
+ - Implement the "machine gun", which beats everything!

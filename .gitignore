@@ -19,4 +19,4 @@ networktables.ini
 .pipup
 
 # Python files:
-*.py
+key.py
