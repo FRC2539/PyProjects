@@ -28,4 +28,5 @@ Mhdsjfh
 View key.py for a solution! (It does not need to be as advanced as the key.py :) )
 
 Bonus: 
+ - <25 Lines!
  - Implement the "machine gun", which beats everything!
