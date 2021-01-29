@@ -1,0 +1,33 @@
+1/28/21
+Mersenne Prime Number Detector:
+
+WARNING: Moderately difficult!
+
+Your code should be able to identify Mersenne
+prime numbers. A Mersenne prime number is a prime 
+number that is one less than the number two to a 
+prime power. Little confusing? An example: seven, is 
+a Mersenne prime number. Why? Three is prime, and 2^3 
+minus one is seven! Your code should take a number which 
+will act as an upper limit. The lower limit will be zero.
+Find all the prime numbers between these limits, set them
+as an exponent to two, then check to see if that product 
+minus one is a prime number. There. Solved it! Have fun!
+The input should be greater than zero and a whole number. 
+If it isn't, reject it!
+
+Inputs:
+ - An integer acting as an upper limit.
+
+Outputs:
+ - String(s) listing the Mersenne prime numbers within the range, as well as their related exponents.
+ 
+Data to check (do not go above 30!):
+10
+24
+-7
+
+View key.py for a solution! (It does not need to be as advanced as the key.py :) )
+
+Bonus: 
+ - <30 Lines!
