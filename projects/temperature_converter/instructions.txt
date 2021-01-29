@@ -23,4 +23,4 @@ View key.py for a solution! (It does not need to be as advanced as the key.py :)
 
 Bonus: 
  - Make it work backwards! (fahrenheit to celsius)
- - < Lines!
+ - <20 Lines!
