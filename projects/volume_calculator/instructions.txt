@@ -1,0 +1,39 @@
+1/29/21
+Volume Calculator
+
+WARNING: Moderately Difficult
+
+The goal of this assignment is to be able to utilize classes
+in a simple manner. You should prompt the user for the dimensions
+of a rectangular prism. Continue to ask them if they would like
+to submit another set of dimensions until they don't want to. 
+At this point, you should have the dimensions (the height, length,
+and width) of multiple rectangular prisms. The goal is to calculate 
+the volume of each individual rectangular prism, and them combine
+them to get the total volume. Imagine you are taking a variety of
+different blocks, stacking them, and then calculating the structure's
+total volume! Only accept positive integers for the dimensions. Also,
+assume that all the dimensions are of the same units. Lastly, the 
+formula for the volume of such as structure is as follows:
+
+volume = length * width * height
+
+Remember, the goal of this is to practice classes and objects.
+So, create an object for each of the blocks!
+
+Inputs:
+ - A string stating whether or not the user wants to create another rectangular prism.
+ - A height for each rectangular prism.
+ - A length for each rectangular prism.
+ - A width for each rectangular prism.
+
+Outputs:
+ - The total volume of the structure. 
+ 
+Data to check (separated in quotations):
+
+Any - do math, make sure your system works. 
+
+View key.py for a solution! (It does not need to be as advanced as the key.py :) )
+
+Bonus: 
