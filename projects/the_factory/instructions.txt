@@ -1,0 +1,39 @@
+2/4/21
+The Factory:
+
+Hello. This project is going to be significantly different
+than what we have been doing. Now that you know a lot about 
+math, looping, and OOP, it's time to apply all these in a 
+large-scale environment. Or, at least larger. This project 
+should be thorough and detailed. This is the closest thing 
+we might get to an actual robot program! Hopefully not however!
+
+So, "The Factory" is going to be a logical and imaginary factory,
+which is going to function as you program it. There will be multiple 
+individual machines to program. In fact, you can continue to add
+on as many machines as you'd like! This factory can produce anything
+you want it to! Whether that's diapers, Coca Cola, toothpase,
+or whatever! YOU just need to do the "logic" behind this. You need to 
+think of what machines you'd need, how much they cost, and how much 
+you produce. All of the basics of each machine should be covered!
+Remember to account for costs and efficiency of each machine. 
+Eventually, we will implement a maintenance cost too! At the end of the 
+day, this is supposed to be a fun, game-like task. Try to make this 
+factory profitable, but reasonable! Also be unique; for example, if
+you're doing a Coca cola factory, make the machines be like a dispenser,
+a capping machine, and a packaging machine. Make it unique to the 
+product!
+
+We will be covering this in many different parts, so we go nice and slow. 
+Therefore, each of you should create a folder using your name. For
+example, if I was doing this, I'd call my folder "benb". Go ahead and
+create your folder now.
+
+Congratulations. There is the first step! Next, we are going to write
+any informative text stating what the factory is going to produce and 
+the machines its going to employ. 
+
+Again, congrats! You did it!
+
+Next, go into each chapter folder and read the instructions folder.
+Start with chapter one!
