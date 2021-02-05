@@ -7,9 +7,20 @@ The overall grand daddy. From here, we have the building management
 the employment directory. 
 """
 
-pass
+from resources.basefactory import * # Import the parent class.
 
-class CocaColaFactory:
+class CocaColaFactory(BaseFactory):
+
+    def start(self): # Add things you want to run once here. 
+        print('start')
+        
+    def loop(self): # Add things you want to loop here.
+        print('looping')
+        
+    def end(self): # Add things you want to do upon ending here.
+        print('end')
 
     def __init__(self):
-        pass
+        super().__init__()
+        
+CocaColaFactory() # Create the object to begin this whole thing.
