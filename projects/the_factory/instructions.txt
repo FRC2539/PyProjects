@@ -25,8 +25,8 @@ a capping machine, and a packaging machine. Make it unique to the
 product!
 
 We will be covering this in many different parts, so we go nice and slow. 
-Therefore, each of you should create a folder using your name. For
-example, if I was doing this, I'd call my folder "benb". Go ahead and
+Each of you should create a folder in the 'programs' folder using your name. 
+For example, if I was doing this, I'd call my folder "programs/benb". Go ahead and
 create your folder now.
 
 Congratulations. There is the first step! Next, we are going to write
