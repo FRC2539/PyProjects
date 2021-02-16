@@ -1,0 +1,64 @@
+2/6/201 Hierarchy And Gameplan
+
+Hello, and welcome to Chapter One. 
+
+We will begin by setting up the filesystem. First, it 
+is important to note that we need a "main" file to run. 
+In this case, you can call it whatever you want, but I
+recommend "factory.py".
+
+However, writing ALL our code in one file is really messy
+and confusing. Therefore, we split it up!
+
+The two assistant programs we will need are the property 
+manager and the finance manager. The property manager 
+manages your machines and the employees. The financial
+manager will manage your money, machine repair costs, and 
+employee wages. 
+
+We will also need the machine classes. Since we will have multiple
+machines and they will all have some properties in common, we will
+create a base class for the machines. Likewise, I have created a base 
+class for your "main" file. This will allow you to run and loop the code 
+properly. Think of your "main" file as the robot.py file we run to
+run the robot code, and my base class as the TimedRobot class, which
+our KryptonBot class inherits from. 
+
+Lastly, we will need a constants file. This allows us to create global
+variables which can be used throughout the code. This constants file
+and my base factory class are both located in the "resources" folder. 
+
+So, let's begin: 
+
+VOCAB: 
+Project directory = The folder that is named after you! For example, "benb".
+File hierarchy = The order of folders, subfolders, and files. 
+
+1. Begin by copying the resources folder in the current directory to your 
+project's directory. The path of it should then be:
+
+"PyProjects\projects\the_factory\programs\YOUR_NAME\resources"
+
+2. In your project directory, create a folder called "machines". Here, we 
+will host the base machine class, as well as the other unique machine classes. 
+
+3. Next, create your "main" file if you have not already. Again, I recommend 
+"factory.py", but if you have a better name, go right ahead!
+
+4. Lastly, create both of the manager files (finance manager and property manager). 
+The names of these files is up to you!
+
+Once your finished, your file hierarchy should look like this:
+
+YOUR_NAME:
+|  machines/
+|  resources/
+|     basefactory.py
+|     constants.py
+|  factory.py
+|  financemanager.py
+|  propertymanager.py
+
+Once, your filesystem is similar to the one above, chapter one is complete! 
+
+In chapter two, we will look at our "main" file and its class.
