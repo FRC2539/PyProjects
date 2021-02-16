@@ -2,7 +2,7 @@ prime = int(input("Enter value: "))
 
 i = 2
 if (prime < 0):
-    print("not prime");
+    print("invalid");
     quit()
 while (i < prime):
     if (prime % i == 0):
