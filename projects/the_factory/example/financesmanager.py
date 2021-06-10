@@ -67,9 +67,10 @@ class FinanceManager:  # Create one of these.
     def loop(self, moola):
         self.currentProfitObj.add(moola)
 
-    def dailyLoop(self, electric, employees):
+    def dailyLoop(self, electric=0, employees=0, export=0):
         self.currentProfitObj.add(-1 * electric)  # Add the day's electric.
-        self.currentProfitObj.add(-1 * employees)
+        self.currentProfitObj.add(-1 * employees)  # Adds the employee's pay.
+        self.currentProfitObj.add(-1 * export)  # Cost for exporting goods.
 
         self.merge(self.currentProfitObj)  # Add this day's profit to the total.
 

@@ -45,7 +45,8 @@ class CocaColaFactory(BaseFactory):
                 * system.employeeHourlyWage
                 * system.workdayLength
             ),
-        )  # Pays electric and employees every day.
+            self.pm.getTotalProducts() * system.exportCost,
+        )  # Pays electric and employees every day. Also ships out products every day.
         self.pm.dailyLoop()
 
     def end(self):  # Add things you want to do upon ending here.
@@ -55,9 +56,7 @@ class CocaColaFactory(BaseFactory):
 
     def __init__(self):
 
-        self.machines = [DispenseMachine()]
-
-        self.loopCount = 0
+        self.machines = [DispenseMachine(), DispenseMachine()]
 
         super().__init__()
 

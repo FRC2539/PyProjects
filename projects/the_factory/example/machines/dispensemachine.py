@@ -2,9 +2,9 @@ from .basemachine import BaseMachine
 
 
 class DispenseMachine(BaseMachine):
-    def __init__(self):
+    def __init__(self, nameOverride="Dispensing Machine"):
         super().__init__(
-            "Dispensing Machine",  # Name of machine.
+            nameOverride,  # Name of machine.
             basePurchaseCost=14000,  # BASE cost of purchase. Will be modified by efficiency level.
             baseRepairCost=2000,
             efficiencyLevel=10,
