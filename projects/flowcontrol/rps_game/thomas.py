@@ -63,4 +63,4 @@ def rockPaperScissors(forcedChoice):
             
             
             
-rockPaperScissors("")
+rockPaperScissors("paper")
