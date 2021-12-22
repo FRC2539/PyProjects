@@ -1,4 +1,4 @@
-mystring = "where can I get a glass of water? Do you not know?"
+mystring = ""
 
 def averageWordLength(mystring):
     tempcount = 0
